@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: Verdana;
+}
+
+/*Encabezado*/
+.logo1{
+    width: 200px;
+    float:left;
+    margin-left: 35%;
+}
+
+.titulo1{
+    font-size: 60px;
+    color: black;
+    padding-top: 40px;
+    float:left;
+}
+/*Menu*/
+.menu{
+    float: right;
+    padding: 25px;
+    background: #DCD7D5;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.opciones li{
+    list-style: none;
+    padding-right: 10px;
+    float: left;
+    margin-left: 200px;
+    }
+.opciones li a{
+    color: black;
+    padding: 30px;
+    text-decoration: none;
+    }
+
+.opciones li a:hover{
+    color: #3CC608;
+}
+
+/*Titulo 2*/
+.titulo2{
+    color: #3CC608;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+/*Productos*/
+.productos{
+    overflow: auto;
+}
+.producto1{
+    /*width: 600px;*/
+    width: 30%;
+    margin-left: 200px;
+    margin-right: 100px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.descripcion1{
+    /*width: 600px;*/
+    width: 30%;
+    float: left;
+    margin-top: 60px;
+    height: 300px;
+}
+
+.descripcion2{
+    /*width: 600px;*/
+    width: 30%;
+    float: left;
+    margin-left:200px;
+    margin-top: 50px;
+}
+
+.producto2{
+    /*width: 600px;*/
+    width: 30%;
+    margin-left: 100px;
+    margin-right: 100px;
+    float: left;
+    margin-bottom: 40px;
+}
+
+
+/*encuentranos*/
+.localizanos{
+    overflow: auto;
+    margin-bottom: 20px;
+}
+.redes_izquierda{
+    width: 50%;
+    float: left;
+    padding: 70px;
+}
+
+.siguenos{
+    font-size: 20px;
+    
+}
+.redes{
+    padding-top: 50px;
+}
+
+.mapa{
+    float: left;
+}
+
+/*pie de pagina*/
+.logo2{
+    width: 100PX;
+    float:left;
+    margin-left: 45%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pie{
+    overflow: auto;
+    background: #DCD7D5;
+
+}
+
+.titulo3{
+    font-size: 20px;
+    color: black;
+    padding-top: 20px;
+    float:left;
+}
